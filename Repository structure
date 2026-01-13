@@ -1,0 +1,6 @@
+expense-tracker-cli/
+│
+├── README.md
+├── requirements.txt
+├── expenses.csv
+└── expense_tracker.py
