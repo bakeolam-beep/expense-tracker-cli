@@ -1,0 +1,11 @@
+
+---
+
+## How to Push This to GitHub (Commands)
+```bash
+git init
+git add .
+git commit -m "Initial commit: Expense Tracker CLI"
+git branch -M main
+git remote add origin https://github.com/your-username/expense-tracker-cli.git
+git push -u origin main
